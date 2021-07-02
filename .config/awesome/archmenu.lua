@@ -234,7 +234,7 @@
      {"Devhelp", "devhelp"},
      {"GHex", "ghex ", "/usr/share/icons/hicolor/16x16/apps/org.gnome.GHex.png" },
      {"Glade", "glade "},
-     {"IntelliJ IDEA Ultimate Edition", "\"/home/box/ide/idea-IU-201.7223.91/bin/idea.sh\" ", "///home/box/ide/idea-IU-201.7223.91/bin/idea.svg" },
+     {"IntelliJ IDEA Ultimate Edition", "\"/home/mmiller/ide/idea-IU-201.7223.91/bin/idea.sh\" ", "///home/mmiller/ide/idea-IU-201.7223.91/bin/idea.svg" },
      {"Julia", "xterm -e julia"},
      {"KAppTemplate", "kapptemplate", "/usr/share/icons/hicolor/16x16/apps/kapptemplate.png" },
      {"KCachegrind", "kcachegrind -qwindowtitle KCachegrind ", "/usr/share/icons/hicolor/32x32/apps/kcachegrind.png" },

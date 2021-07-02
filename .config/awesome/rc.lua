@@ -59,7 +59,7 @@ end)
 
 -- MainMenu XMENU
 local function xmenu()
-    awful.spawn.with_shell("/home/box/.config/xmenu/xmenu.sh")
+    awful.spawn.with_shell("/home/mmiller/.config/xmenu/xmenu.sh")
 end
 
 -- This is used later as the default terminal and editor to run.

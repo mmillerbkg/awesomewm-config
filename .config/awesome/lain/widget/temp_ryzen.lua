@@ -19,7 +19,7 @@ local function factory(args)
     local settings = args.settings or function() end
 
     function temp.update()
-        helpers.async({"/home/box/bin/cputemp"}, function(f)
+        helpers.async({"/home/mmiller/bin/cputemp"}, function(f)
             coretemp_now = f or "N/A"
             widget = temp.widget
             settings()
