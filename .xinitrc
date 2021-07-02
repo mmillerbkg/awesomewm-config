@@ -2,7 +2,7 @@
 eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
 export SSH_AUTH_SOCK
 numlockx &
-setxkbmap -layout "us,cz" -option "grp:alt_shift_toggle" -variant ",qwerty" &
+setxkbmap -layout "us" -option "grp:alt_shift_toggle" -variant ",qwerty" &
 xrdb -merge ~/.Xresources
 export QT_STYLE_OVERRIDE=kvantum
 #export QT_QPA_PLATFORMTHEME="qt5ct"
